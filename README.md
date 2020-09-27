@@ -8,5 +8,3 @@
 - 📫 If you want to collaborate on a project or reach me out, email me at [mstfakts98@gmail.com](mailto:mstfakts98@gmail.com) or do not hesitate to connect on [LinkedIn](https://www.linkedin.com/in/mstfakts98/)
 
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mstfakts&count_private=true&show_icons=true&theme=dark)
-
-![Mustafa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mstfakts&theme=dark)

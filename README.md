@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm Mustafa Aktaş 👋</h3>
 
-- ⚡ Fresh graduate of Computer Science and Engineering, looking for a job/project (I can remotely work, too). 
+- ⚡ Fresh graduate of Computer Science and Engineering
 
 - 🔭 Interested in the fields of machine learning, deep learning, computer vision, remote sensing, big data, data analysis, etc. Also, I completed many projects in those fields (check my repositories or let me send my CV).
 

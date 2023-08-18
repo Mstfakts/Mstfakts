@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm Mustafa Aktaş 👋</h3>
 
-- ⚡ Fresh graduate of Computer Science and Engineering
+- ⚡ Passionate about Software Development and Artificial Intelligence, I am a seasoned Python (and little C++/C) developer with a strong foundation in Design Patterns, DevOps practices and ML/DL/Computer Vision background. My expertise spans across a wide range of technical domains, including Data Science, Computer Vision, Digital Twins and IoT. I am committed to innovation, continuous learning, and the end-to-end development of Software projects, so that, I still continue my MSc. life at Istanbul Technical University in Computer Science Department.
 
 - 🔭 Interested in the fields of machine learning, deep learning, computer vision, remote sensing, big data, data analysis, etc. Also, I completed many projects in those fields (check my repositories or let me send my CV).
 

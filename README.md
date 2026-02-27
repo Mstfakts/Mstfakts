@@ -1,19 +1,54 @@
-<h3 align="center">Hi there, I'm Mustafa Aktaş 👋</h3>
+# Hi, I'm Mustafa Aktaş 👋
 
-- ⚡ Passionate about Software Development and Artificial Intelligence, I am a seasoned Python (and little C++/C) developer with a strong foundation in Design Patterns, DevOps practices and ML/DL/Computer Vision background. My expertise spans across a wide range of technical domains, including Data Science, Computer Vision, Digital Twins and IoT. I am committed to innovation, continuous learning, and the end-to-end development of Software projects, so that, I still continue my MSc. life at Istanbul Technical University in Computer Science Department.
+**Big Data Engineer · Data Scientist · ML Engineer**  
+I build scalable ML systems on **Apache Spark** and production-grade data/AI pipelines with **Docker/Kubernetes**.
 
-- 🔭 Interested in the fields of machine learning, deep learning, computer vision, remote sensing, big data, data analysis, etc. Also, I completed many projects in those fields (check my repositories or let me send my CV).
+- 🧠 Focus: **Big Data ML (SparkML/PySpark)**, **MLOps**, **ML Engineering**, **Anomaly Detection**
+- 🏢 Current: **TÜBİTAK BİLGEM** — Cloud Computing and Big Data Research Laboratory (**B3LAB**)
+- 🎓 MSc CS @ **Istanbul Technical University**
 
-- 📫 If you want to collaborate on a project or reach me out, email me at or do not hesitate to connect on [LinkedIn](https://www.linkedin.com/in/mstfakts98/)
+---
 
-<h5 align="center">
-<code>
-<a href="https://www.linkedin.com/in/mstfakts98/" title="LinkedIn"><img width="22" src="https://github.com/Mstfakts/Mstfakts/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-</h5>
+## Selected Projects
+
+### Machine Learning
+| Project ⚙️| Description 📝| Stars ⭐|
+|---|---|---:|
+| [Building-Detection-MaskRCNN](https://github.com/Mstfakts/Building-Detection-MaskRCNN) | Building detection with Mask R-CNN | ![Stars](https://img.shields.io/github/stars/Mstfakts/Building-Detection-MaskRCNN?style=flat&label=%E2%AD%90%20Stars) |
+| [Federated-Learning-Comparative-Study](https://github.com/Mstfakts/Federated-Learning-Comparative-Study) | Federated learning experiments + comparative evaluation (Flower, fairness) | ![Stars](https://img.shields.io/github/stars/Mstfakts/Federated-Learning-Comparative-Study?style=flat&label=%E2%AD%90%20Stars) |
+
+### Vector Search / RAG
+| Project ⚙️| Description 📝| Stars ⭐|
+|---|---|---:|
+| [Text-Similarity-Towhee-MilvusDB](https://github.com/Mstfakts/Text-Similarity-Towhee-MilvusDB) | Similarity search using embeddings and Milvus | ![Stars](https://img.shields.io/github/stars/Mstfakts/Text-Similarity-Towhee-MilvusDB?style=flat&label=%E2%AD%90%20Stars) |
+
+### Reinforcement Learning
+| Project ⚙️| Description 📝| Stars ⭐|
+|---|---|---:|
+| [Dinosaur-Game-with-Deep-Q-Learning](https://github.com/Mstfakts/Dinosaur-Game-with-Deep-Q-Learning) | DQN agent for the Chrome Dino game | ![Stars](https://img.shields.io/github/stars/Mstfakts/Dinosaur-Game-with-Deep-Q-Learning?style=flat&label=%E2%AD%90%20Stars) |
 
 
-<hr>
-<p align=center>
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Mstfakts&count_private=true&show_icons=true&theme=dark">
-</p>
-<hr>
+---
+
+## Tech Stack (the stuff I actually use)
+
+**Big Data / Lakehouse:** PySpark · SparkML · Iceberg · S3 · SQL · MongoDB  
+**Messaging:** Kafka · MQTT  
+**Monitoring:** Airflow · Grafana  
+**Analytics:** Apache Druid · Superset  
+**ML/LLM:** PyTorch · (TensorFlow) · Ollama · LangChain  
+**DevOps:** Docker · Kubernetes · CI/CD · Git · Linux  
+**Backend:** Python · Go · REST · GraphQL  
+
+---
+
+## Publications
+- **Enhancing Credit Risk Assessment with Federated Learning** (EAI ROSENET 2024) [Access](https://link.springer.com/chapter/10.1007/978-3-031-92143-8_2)
+- **Small Object Detection and Tracking from Aerial Imagery** (UBMK 2021) [Access](https://ieeexplore.ieee.org/document/9558923)
+
+---
+
+## Contact
+- 💼 **Preferred:** LinkedIn — https://www.linkedin.com/in/mustafaaktasinfo
+- 📫 Email: available on request via LinkedIn
+- 🧑‍💻 GitHub: https://github.com/Mstfakts

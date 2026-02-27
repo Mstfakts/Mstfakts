@@ -16,6 +16,7 @@ I build scalable ML systems on **Apache Spark** and production-grade data/AI pip
 |---|---|---:|
 | [Building-Detection-MaskRCNN](https://github.com/Mstfakts/Building-Detection-MaskRCNN) | Building detection with Mask R-CNN | ![Stars](https://img.shields.io/github/stars/Mstfakts/Building-Detection-MaskRCNN?style=flat&label=%E2%AD%90%20Stars) |
 | [Federated-Learning-Comparative-Study](https://github.com/Mstfakts/Federated-Learning-Comparative-Study) | Federated learning experiments + comparative evaluation (Flower, fairness) | ![Stars](https://img.shields.io/github/stars/Mstfakts/Federated-Learning-Comparative-Study?style=flat&label=%E2%AD%90%20Stars) |
+| [Knowledge-and-Dataset-Distillation](https://github.com/Mstfakts/Knowledge-and-Dataset-Distillation-via-MNIST) | Knowledge and Dataset Distillation on the MNIST Dataset | ![Stars](https://img.shields.io/github/stars/Mstfakts/Knowledge-and-Dataset-Distillation-via-MNIST?style=flat&label=%E2%AD%90%20Stars) |
 
 ### Vector Search / RAG
 | Project ⚙️| Description 📝| Stars ⭐|

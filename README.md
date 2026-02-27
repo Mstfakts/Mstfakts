@@ -27,6 +27,7 @@ I build scalable ML systems on **Apache Spark** and production-grade data/AI pip
 | Project ⚙️| Description 📝| Stars ⭐|
 |---|---|---:|
 | [Dinosaur-Game-with-Deep-Q-Learning](https://github.com/Mstfakts/Dinosaur-Game-with-Deep-Q-Learning) | DQN agent for the Chrome Dino game | ![Stars](https://img.shields.io/github/stars/Mstfakts/Dinosaur-Game-with-Deep-Q-Learning?style=flat&label=%E2%AD%90%20Stars) |
+| [DRL-Competition 2024](https://github.com/DRL-ITU-2024/DRL-Competition) | Deep Reinforcement Learning (DRL) agents to learn resource collection and combat | ![Stars](https://img.shields.io/github/stars/DRL-ITU-2024/DRL-Competition?style=flat&label=%E2%AD%90%20Stars) |
 
 
 ---
